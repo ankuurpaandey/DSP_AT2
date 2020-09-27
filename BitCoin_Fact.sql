@@ -1,7 +1,7 @@
 /* ---------------------------------------------------- */
-/*  Author: Werner Schott                         		  */
-/*  Created On : 25-Sep-2020 2:40PM              				*/
-/*  DBMS       : PostgreSQL							                */
+/*  Author: Werner Schott                         		    */
+/*  Created On : 25-Sep-2020 2:40PM              				   */
+/*  DBMS       : PostgreSQL							                      */
 /* ---------------------------------------------------- */
 
  /* Drop Tables */
