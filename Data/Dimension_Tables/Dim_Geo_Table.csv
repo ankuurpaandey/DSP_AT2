@@ -1,0 +1,253 @@
+Continent_Name,Continent_Code,Country_Name,Country_Code,Currency_Code
+Africa,AF,Algeria,DZA,DZD
+Africa,AF,Angola,AGO,AOA
+Africa,AF,Botswana,BWA,BWP
+Africa,AF,Burundi,BDI,BIF
+Africa,AF,Cameroon,CMR,XAF
+Africa,AF,Cabo Verde,CPV,CVE
+Africa,AF,Central African Republic (the),CAF,XAF
+Africa,AF,Chad,TCD,XAF
+Africa,AF,Comoros (the),COM,KMF
+Africa,AF,Mayotte,MYT,EUR
+Africa,AF,Congo (the),COG,CDF
+Africa,AF,Congo (the Democratic Republic of the),COD,CDF
+Africa,AF,Benin,BEN,XOF
+Africa,AF,Equatorial Guinea,GNQ,XOF
+Africa,AF,Ethiopia,ETH,ETB
+Africa,AF,Eritrea,ERI,ERN
+Africa,AF,Djibouti,DJI,DJF
+Africa,AF,Gabon,GAB,XAF
+Africa,AF,Gambia (the),GMB,GMD
+Africa,AF,Ghana,GHA,GHS
+Africa,AF,Guinea,GIN,GNF
+Africa,AF,Côte d'Ivoire,CIV,XOF
+Africa,AF,Kenya,KEN,KES
+Africa,AF,Lesotho,LSO,ZAR
+Africa,AF,Liberia,LBR,LRD
+Africa,AF,Libya,LBY,LYD
+Africa,AF,Madagascar,MDG,MGA
+Africa,AF,Malawi,MWI,MWK
+Africa,AF,Mali,MLI,XOF
+Africa,AF,Mauritania,MRT,MRU
+Africa,AF,Mauritius,MUS,MUR
+Africa,AF,Morocco,MAR,MAD
+Africa,AF,Mozambique,MOZ,MZN
+Africa,AF,Namibia,NAM,ZAR
+Africa,AF,Niger (the),NER,XOF
+Africa,AF,Nigeria,NGA,NGN
+Africa,AF,Guinea-Bissau,GNB,GWP
+Africa,AF,Réunion,REU,EUR
+Africa,AF,Rwanda,RWA,RWF
+Africa,AF,Sao Tome and Principe,STP,STD
+Africa,AF,Senegal,SEN,XOF
+Africa,AF,Seychelles,SYC,SCR
+Africa,AF,Sierra Leone,SLE,SLL
+Africa,AF,Somalia,SOM,SOS
+Africa,AF,South Africa,ZAF,ZAR
+Africa,AF,Zimbabwe,ZWE,ZWL
+Africa,AF,South Sudan,SSD,SSP
+Africa,AF,Western Sahara,ESH,MAD
+Africa,AF,Sudan (the),SDN,SDG
+Africa,AF,Eswatini,SWZ,SZL
+Africa,AF,Togo,TGO,XOF
+Africa,AF,Tunisia,TUN,TND
+Africa,AF,Uganda,UGA,UGX
+Africa,AF,Egypt,EGY,EGP
+Africa,AF,"Tanzania, United Republic of",TZA,TZS
+Africa,AF,Burkina Faso,BFA,XAF
+Africa,AF,Zambia,ZMB,ZMW
+Antarctica,AN,Bouvet Island,BVT,NOK
+Antarctica,AN,French Southern Territories (the),ATF,EUR
+Antarctica,AN,Heard Island and McDonald Islands,HMD,AUD
+Asia,AS,Afghanistan,AFG,AFN
+Asia,AS,Azerbaijan,AZE,AZN
+Asia,AS,Bahrain,BHR,BHD
+Asia,AS,Bangladesh,BGD,BDT
+Asia,AS,Armenia,ARM,AMD
+Asia,AS,Bhutan,BTN,INR
+Asia,AS,British Indian Ocean Territory (the),IOT,USD
+Asia,AS,Brunei Darussalam,BRN,BDN
+Asia,AS,Myanmar,MMR,MMK
+Asia,AS,Cambodia,KHM,KHR
+Asia,AS,Sri Lanka,LKA,LKR
+Asia,AS,China,CHN,CNY
+Asia,AS,Taiwan (Province of China),TWN,TWD
+Asia,AS,Christmas Island,CXR,AUD
+Asia,AS,Cocos (Keeling) Islands (the),CCK,AUD
+Asia,AS,Cyprus,CYP,EUR
+Asia,AS,Georgia,GEO,GEL
+Asia,AS,"Palestine, State of",PSE,JOD
+Asia,AS,Hong Kong,HKG,HKD
+Asia,AS,India,IND,INR
+Asia,AS,Indonesia,IDN,IDR
+Asia,AS,Iran (Islamic Republic of),IRN,IRR
+Asia,AS,Iraq,IRQ,IQD
+Asia,AS,Israel,ISR,ILS
+Asia,AS,Japan,JPN,JPY
+Asia,AS,Kazakhstan,KAZ,KZT
+Asia,AS,Jordan,JOR,JOD
+Asia,AS,Korea (the Democratic People's Republic of),PRK,KPW
+Asia,AS,Korea (the Republic of),KOR,KRW
+Asia,AS,Kuwait,KWT,KWD
+Asia,AS,Kyrgyzstan,KGZ,KGS
+Asia,AS,Lao People's Democratic Republic (the),LAO,LAK
+Asia,AS,Lebanon,LBN,LBP
+Asia,AS,Macao,MAC,MOP
+Asia,AS,Malaysia,MYS,MYR
+Asia,AS,Maldives,MDV,MVR
+Asia,AS,Mongolia,MNG,MNT
+Asia,AS,Oman,OMN,OMR
+Asia,AS,Nepal,NPL,NPL
+Asia,AS,Pakistan,PAK,PKR
+Asia,AS,Philippines (the),PHL,PHP
+Asia,AS,Timor-Leste,TLS,USD
+Asia,AS,Qatar,QAT,QAR
+Asia,AS,Russian Federation (the),RUS,RUB
+Asia,AS,Saudi Arabia,SAU,SAR
+Asia,AS,Singapore,SGP,SGD
+Asia,AS,Viet Nam,VNM,VND
+Asia,AS,Syrian Arab Republic,SYR,SYP
+Asia,AS,Tajikistan,TJK,TJS
+Asia,AS,Thailand,THA,THB
+Asia,AS,United Arab Emirates (the),ARE,AED
+Asia,AS,Turkey,TUR,TRY
+Asia,AS,Turkmenistan,TKM,TMT
+Asia,AS,Uzbekistan,UZB,UZS
+Asia,AS,Yemen,YEM,YER
+Europe,EU,Albania,ALB,ALL
+Europe,EU,Andorra,AND,EUR
+Europe,EU,Azerbaijan,AZE,AZN
+Europe,EU,Austria,AUT,EUR
+Europe,EU,Armenia,ARM,AMD
+Europe,EU,Belgium,BEL,EUR
+Europe,EU,Bosnia and Herzegovina,BIH,BAM
+Europe,EU,Bulgaria,BGR,BGN
+Europe,EU,Belarus,BLR,BYN
+Europe,EU,Croatia,HRV,HRK
+Europe,EU,Cyprus,CYP,EUR
+Europe,EU,Czechia,CZE,CZK
+Europe,EU,Denmark,DNK,DKK
+Europe,EU,Estonia,EST,EUR
+Europe,EU,Faroe Islands (the),FRO,DKK
+Europe,EU,Finland,FIN,EUR
+Europe,EU,Åland Islands,ALA,EUR
+Europe,EU,France,FRA,EUR
+Europe,EU,Georgia,GEO,GEL
+Europe,EU,Germany,DEU,EUR
+Europe,EU,Gibraltar,GIB,GIP
+Europe,EU,Greece,GRC,EUR
+Europe,EU,Holy See (the),VAT,EUR
+Europe,EU,Hungary,HUN,HUF
+Europe,EU,Iceland,ISL,ISK
+Europe,EU,Ireland,IRL,EUR
+Europe,EU,Italy,ITA,EUR
+Europe,EU,Kazakhstan,KAZ,KZT
+Europe,EU,Latvia,LVA,EUR
+Europe,EU,Liechtenstein,LIE,CHF
+Europe,EU,Lithuania,LTU,EUR
+Europe,EU,Luxembourg,LUX,EUR
+Europe,EU,Malta,MLT,EUR
+Europe,EU,Monaco,MCO,EUR
+Europe,EU,Moldova (the Republic of),MDA,MDL
+Europe,EU,Montenegro,MNE,EUR
+Europe,EU,Netherlands (the),NLD,EUR
+Europe,EU,Norway,NOR,NOK
+Europe,EU,Poland,POL,PLN
+Europe,EU,Portugal,PRT,EUR
+Europe,EU,Romania,ROU,RON
+Europe,EU,Russian Federation (the),RUS,RUB
+Europe,EU,San Marino,SMR,EUR
+Europe,EU,Serbia,SRB,RSD
+Europe,EU,Slovakia,SVK,EUR
+Europe,EU,Slovenia,SVN,EUR
+Europe,EU,Spain,ESP,EUR
+Europe,EU,Svalbard and Jan Mayen,SJM,NOK
+Europe,EU,Sweden,SWE,SEK
+Europe,EU,Switzerland,CHE,CHF
+Europe,EU,Turkey,TUR,TRY
+Europe,EU,Ukraine,UKR,UAH
+Europe,EU,Republic of North Macedonia,MKD,MKD
+Europe,EU,United Kingdom of Great Britain and Northern Ireland (the),GBR,GBP
+Europe,EU,Guernsey,GGY,GBP
+Europe,EU,Jersey,JEY,GBP
+Europe,EU,Isle of Man,IMN,GBP
+North America,NA,Bahamas (the),BHS,BSD
+North America,NA,Barbados,BRB,BBD
+North America,NA,Bermuda,BMU,BMD
+North America,NA,Belize,BLZ,BZD
+North America,NA,Virgin Islands (British),VGB,USD
+North America,NA,Canada,CAN,CAD
+North America,NA,Cayman Islands (the),CYM,KYD
+North America,NA,Costa Rica,CRI,CRC
+North America,NA,Cuba,CUB,CUP
+North America,NA,Dominica,DMA,DOP
+North America,NA,Dominican Republic (the),DOM,DOP
+North America,NA,El Salvador,SLV,USD
+North America,NA,Greenland,GRL,DKK
+North America,NA,Grenada,GRD,XCD
+North America,NA,Guadeloupe,GLP,EUR
+North America,NA,Guatemala,GTM,GTQ
+North America,NA,Haiti,HTI,USD
+North America,NA,Honduras,HND,HNL
+North America,NA,Jamaica,JAM,JMD
+North America,NA,Martinique,MTQ,EUR
+North America,NA,Mexico,MEX,MXN
+North America,NA,Montserrat,MSR,XDC
+North America,NA,Curaçao,CUW,ANG
+North America,NA,Aruba,ABW,AWG
+North America,NA,Sint Maarten (Dutch part),SXM,ANG
+North America,NA,"Bonaire, Sint Eustatius and Saba",BES,USD
+North America,NA,Nicaragua,NIC,NIO
+North America,NA,United States Minor Outlying Islands (the),UMI,USD
+North America,NA,Panama,PAN,USD
+North America,NA,Puerto Rico,PRI,USD
+North America,NA,Saint Barthélemy,BLM,EUR
+North America,NA,Anguilla,AIA,XCD
+North America,NA,Saint Lucia,LCA,XCD
+North America,NA,Saint Martin (French part),MAF,EUR
+North America,NA,Saint Pierre and Miquelon,SPM,EUR
+North America,NA,Saint Vincent and the Grenadines,VCT,XCD
+North America,NA,Trinidad and Tobago,TTO,TTD
+North America,NA,Turks and Caicos Islands (the),TCA,USD
+North America,NA,United States of America (the),USA,USD
+North America,NA,Virgin Islands (U.S.),VIR,USD
+Oceania,OC,American Samoa,ASM,USD
+Oceania,OC,Australia,AUS,AUD
+Oceania,OC,Solomon Islands,SLB,SBD
+Oceania,OC,Cook Islands (the),COK,NZD
+Oceania,OC,Fiji,FJI,FJD
+Oceania,OC,French Polynesia,PYF,XPF
+Oceania,OC,Kiribati,KIR,AUD
+Oceania,OC,Guam,GUM,USD
+Oceania,OC,Nauru,NRU,AUD
+Oceania,OC,New Caledonia,NCL,XPF
+Oceania,OC,Vanuatu,VUT,VUV
+Oceania,OC,New Zealand,NZL,NZD
+Oceania,OC,Niue,NIU,NZD
+Oceania,OC,Norfolk Island,NFK,AUD
+Oceania,OC,Northern Mariana Islands (the),MNP,USD
+Oceania,OC,United States Minor Outlying Islands (the),UMI,USD
+Oceania,OC,Micronesia (Federated States of),FSM,USD
+Oceania,OC,Marshall Islands (the),MHL,USD
+Oceania,OC,Palau,PLW,USD
+Oceania,OC,Papua New Guinea,PNG,PGK
+Oceania,OC,Pitcairn,PCN,NZD
+Oceania,OC,Tokelau,TKL,NZD
+Oceania,OC,Tonga,TON,TOP
+Oceania,OC,Tuvalu,TUV,AUD
+Oceania,OC,Wallis and Futuna,WLF,XPF
+Oceania,OC,Samoa,WSM,WST
+South America,SA,Argentina,ARG,ARS
+South America,SA,Bolivia (Plurinational State of),BOL,BOB
+South America,SA,Brazil,BRA,BRL
+South America,SA,Chile,CHL,CLP
+South America,SA,Colombia,COL,COP
+South America,SA,Ecuador,ECU,USD
+South America,SA,Falkland Islands (the) [Malvinas],FLK,FKP
+South America,SA,French Guiana,GUF,EUR
+South America,SA,Guyana,GUY,GYD
+South America,SA,Paraguay,PRY,PYG
+South America,SA,Peru,PER,PEN
+South America,SA,Suriname,SUR,SRD
+South America,SA,Uruguay,URY,UYU
+South America,SA,Venezuela (Bolivarian Republic of),VEN,VES
